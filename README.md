@@ -2,7 +2,10 @@
 ###### Repositório criado para publicar conteúdos e entregas relacionadas ao Bootcamp de Qualidade de Software.
 
 
-O curso é voltado para mulheres que querem ingressar ou se aperfeiçoar na área de QA.
+O Bootcamp é voltado para mulheres que querem ingressar e/ou se aperfeiçoar na área de QA.
+
+
+Duração: 103h
 
 Trajetória de estudos:
 
