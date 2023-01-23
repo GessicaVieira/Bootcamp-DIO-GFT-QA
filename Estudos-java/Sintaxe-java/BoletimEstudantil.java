@@ -1,4 +1,3 @@
-package Gess.SintaxeJava.AnatomiaDasClasses;
 public class BoletimEstudantil {
     public static void main(String[] args) {
                 int mediaFinal = 6;
