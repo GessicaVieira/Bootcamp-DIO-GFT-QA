@@ -1,5 +1,5 @@
 ## 📊 Bootcamp: GFT QA Para Mulheres
-###### Bootcamp voltado para mulheres que se identificam e querem aprender sobre a área de QA.
+###### Bootcamp voltado para mulheres que se identificam e querem aprender sobre a área de Qualidade de Software.
 
 Módulo 1 – Prepare-se Para a Jornada (Onboarding)
 
