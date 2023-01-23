@@ -1,6 +1,10 @@
 ## 📊 Bootcamp: GFT QA Para Mulheres
-###### Bootcamp voltado para mulheres que se identificam e querem aprender sobre a área de Qualidade de Software.
+###### Repositório criado para publicar conteúdos e entregas relacionadas ao Bootcamp de Qualidade de Software.
 
+O curso é voltado para mulheres que querem ingressar ou se aperfeiçoar na área de QA.
+
+
+Trajetória de estudos:
 Módulo 1 – Prepare-se Para a Jornada (Onboarding)
 
 - Conheça as Oportunidades da DIO
